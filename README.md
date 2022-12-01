@@ -18,6 +18,4 @@ Sou uma pessoal neutra e não gosto de se socializar muito com outras pessoas.
 
 Atualmente faço parte de um progeto chamado **Telessaude na escola** que é financiado pela FAPEMAT.
 
-Mostrando como sou através de uma imagem artística.
-
-https://github.com/danielsoares3/danielsoares3/blob/main/ef5cb5fe0bf312d3b0729f108ce07612.jpg
+![Mostrando como sou através de uma imagem artística](https://github.com/danielsoares3/danielsoares3/blob/main/ef5cb5fe0bf312d3b0729f108ce07612.jpg)
